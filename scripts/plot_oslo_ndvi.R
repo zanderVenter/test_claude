@@ -1,3 +1,5 @@
+# Making a change here
+
 args <- commandArgs(trailingOnly = TRUE)
 
 input_file <- if (length(args) >= 1) args[[1]] else "data/oslo_ndvi.csv"
