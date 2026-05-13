@@ -1,0 +1,10 @@
+[project]
+name = "test-claude"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "earthengine-api==1.7.22",
+    "pandas",
+]

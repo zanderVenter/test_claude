@@ -1,0 +1,24 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Local R/Jupyter project state
+.r-lib/
+.jupyter/
+.jupyter-prefix/
+.ipython/
+
+# Local tool state
+.codex
+
+# Generated outputs
+data/*.csv
+data/*.png
+Rplots.pdf
